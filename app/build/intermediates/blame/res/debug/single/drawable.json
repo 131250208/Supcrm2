@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_clock.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\alarm_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\document.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\document.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dial.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\dial.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\money.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\filter.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\product.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_chart.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\bar_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_list.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\product_list.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.0.8\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\situation.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\situation.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\papaer_plane.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\papaer_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customer.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\customer.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_followup.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\contact_followup.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\business.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\business.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\garbage.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\garbage.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\editor.png"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\portrait.png",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\drawable\\portrait.png"
+    }
+]

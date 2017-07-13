@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1c3b0b3d161e95fcb78da6e588d7b62bbe77b6af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_19fd6a90d09245abfe67c64c8d47e914d15baaf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3f00bb9cdb0a14b0db183427d227bfd78b29ec2">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-pickerview-2.0.8_73cea2a37f2ce8e5481c2449dc2002b77e77cbf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ea98a012ee4bf9cc1cc9ba86d308b3ffd5907ba">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8938c42ddc485181498ae21c4889a539af549800\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_f6c4eca00359ca6f8b9c1702c7677c2c261d387a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e65366dc31132ac9b0a8b9784a0556881bbb4070">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99ca948e72ff95ff46e89555c7dd52b40c1bcf86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_593041cb0e0d0e61dead201451900ec3096278aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5de9c3aa7d22e38fc14cd9ef5f0e15429e615447\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\.gradle\caches\modules-2\files-2.1\com.hannesdorfmann.fragmentargs\annotation\3.0.2\59da4bbec89ffa4b156cc1ddca44dde4dcea9ac5\annotation-3.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59da4bbec89ffa4b156cc1ddca44dde4dcea9ac5">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotation-3.0.2_4ccfdff29a005d344c4ad424fc8e6284cd7a9d08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_5bb27ea7b6ba1fc63182626342db5db95cb3230e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_14f27601e6581c3d29e671b34ec41789ee5b378c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_6576bb160219a34ccd1ee76e96ee337f26774e6c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\15850\Documents\GitHub\MyWorkspace\Android\Supcrm2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6c08dcdf7db20f3cffffe06893d81c394baafe81\classes.dex" />
+    </item>
+
+</items>

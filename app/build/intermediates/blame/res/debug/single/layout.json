@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab_activity__another.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_tab_activity__another.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_followup.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_list_followup.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_filter.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\report_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_list.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_tab_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__detail__contract.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__detail__contract.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__report__staff_performance.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__report__staff_performance.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_detail_opportunity.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_tab_detail_opportunity.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment__situation__line.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_fragment__situation__line.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__test_api.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__test_api.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\followup_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\followup_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_contact.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_list_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.0.8\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_opportunity.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_list_opportunity.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_customer.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_list_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__situation.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__situation.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__report__target.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__report__target.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__detail__customer.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__detail__customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__report__trend.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__report__trend.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__detail__product.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__detail__product.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__business.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__business.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.0.8\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_head.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\app_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__report.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__report.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_contract.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_list_contract.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__report__filter.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__report__filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__report__track.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__report__track.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.0.8\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customer_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\customer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contract_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\contract_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_detail_customer.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_tab_detail_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__detail__contact.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__detail__contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\opportunity_item.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\opportunity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_temp.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity__detail__opportunity.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\activity_activity__detail__opportunity.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_product.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\src\\main\\res\\layout\\fragment_list_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.0.8\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\15850\\Documents\\GitHub\\MyWorkspace\\Android\\Supcrm2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]
