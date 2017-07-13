@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.a15850.supcrm.UI.Activity_Report_StaffPerformance">
+
+    <include layout="@layout/app_head"></include>
+    <include layout="@layout/report_filter"></include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:text="\t\t\t姓名\t\t\t"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:text="带来客户"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:text="带来合同"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:text="平均跟进"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:text="考评等级"
+            />
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/report_staffperformance_table">
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>

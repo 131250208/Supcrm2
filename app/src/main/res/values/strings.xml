@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">我的超客</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list">列表</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_test">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tab_activity__another">TabActivity_Another</string>
+</resources>

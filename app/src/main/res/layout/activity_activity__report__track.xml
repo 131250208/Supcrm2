@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a15850.supcrm.UI.Activity_Report_Track">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <include layout="@layout/app_head"></include>
+
+        <com.example.a15850.supcrm.UI.ReportFilter
+            android:layout_width="match_parent"
+            android:background="@color/GRAY"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:id="@id/report_filter"
+            android:layout_height="wrap_content">
+
+        </com.example.a15850.supcrm.UI.ReportFilter>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@color/WHITE"
+            android:id="@+id/report_track_customer">
+            <FrameLayout
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="20dp">
+
+                <com.timqi.sectorprogressview.ColorfulRingProgressView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/crpv_TrackRec_customer"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:bgColor="#e1e1e1"
+                    app:fgColorEnd="@color/colorPrimary"
+                    app:fgColorStart="@color/faintBlue"
+                    app:percent="70"
+                    app:startAngle="0"
+                    app:strokeWidth="12dp" />
+
+                <TextView
+                    android:id="@+id/tvPercent_track_customer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="70"
+                    android:textColor="@color/faintBlue"
+                    android:textSize="25sp" />
+            </FrameLayout>
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:rowCount="3"
+                android:columnCount="2"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:layout_marginLeft="50dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="客户跟进记录"
+                    android:textSize="20sp"
+                    android:gravity="end"
+                    android:layout_columnSpan="2"
+                    android:layout_columnWeight="2"
+                    android:layout_column="0"
+                    android:layout_row="0"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="0"
+                    android:text="本月跟进客户数："/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:id="@+id/tv_track_customer"
+                    android:textColor="@color/GREEN"
+                    android:text="28"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="0"
+                    android:text="总客户数："/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="1"
+                    android:id="@+id/tv_total_customer"
+                    android:textColor="@color/faintBlue"
+                    android:text="40"/>
+            </GridLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@color/WHITE"
+            android:id="@+id/report_track_opportunity">
+            <FrameLayout
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="20dp">
+
+                <com.timqi.sectorprogressview.ColorfulRingProgressView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/crpv_TrackRec_opportunity"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:bgColor="#e1e1e1"
+                    app:fgColorEnd="@color/colorPrimary"
+                    app:fgColorStart="@color/faintBlue"
+                    app:percent="60"
+                    app:startAngle="0"
+                    app:strokeWidth="12dp" />
+
+                <TextView
+                    android:id="@+id/tvPercent_track_opportunity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="60"
+                    android:textColor="@color/faintBlue"
+                    android:textSize="25sp" />
+            </FrameLayout>
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:rowCount="3"
+                android:columnCount="2"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:layout_marginLeft="50dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="商机跟进记录"
+                    android:textSize="20sp"
+                    android:gravity="end"
+                    android:layout_columnSpan="2"
+                    android:layout_columnWeight="2"
+                    android:layout_column="0"
+                    android:layout_row="0"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="0"
+                    android:text="本月跟进商机数："/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:id="@+id/tv_track_opportunity"
+                    android:textColor="@color/GREEN"
+                    android:text="12"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="0"
+                    android:text="总商机数："/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="1"
+                    android:id="@+id/tv_total_opportunity"
+                    android:textColor="@color/faintBlue"
+                    android:text="20"/>
+            </GridLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:text="\t\t\t姓名\t\t\t"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:text="\t\t总跟进\t\t"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:text="跟进客户"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:text="跟进商机"
+                />
+        </LinearLayout>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/report_track_table">
+            </TableLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/home" />
+</FrameLayout>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.example.a15850.supcrm.UI.Activity_Detail_Contact">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <include layout="@layout/app_head"></include>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/activity_vertical_margin">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="基本信息"
+                        android:textSize="30sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="15dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="产品名称"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/product_detail_name"
+                        android:enabled="false"
+                        android:textColor="@color/BLACK"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="产品编号"/>
+
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/product_detail_sn"
+                        android:enabled="false"
+                        android:textColor="@color/BLACK"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="标准单价"/>
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/product_detail_price"
+                        android:enabled="false"
+                        android:textColor="@color/BLACK"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="销售单位"/>
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/product_detail_price_unit"
+                        android:enabled="false"
+                        android:textColor="@color/BLACK"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/activity_vertical_margin">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="其他信息"
+                        android:textSize="30sp"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="15dp"
+                        android:textColor="@color/faintBlue"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="分类"/>
+                    <Spinner
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:id="@+id/product_detail_categories"
+
+                        android:entries="@array/categories"></Spinner>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="产品介绍"/>
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/product_detail_introduction"
+                        android:enabled="false"
+                        android:textColor="@color/BLACK"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="@color/faintBlue"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="备注"/>
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/product_detail_remark"
+                        android:enabled="false"
+                        android:textColor="@color/BLACK"/>
+                </LinearLayout>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/GRAY"
+                    android:textColor="@color/WHITE"
+                    android:textSize="30sp"
+                    android:padding="@dimen/activity_vertical_margin"
+                    android:layout_margin="@dimen/activity_vertical_margin"
+                    android:enabled="false"
+                    android:id="@+id/save_product"
+                    android:text="保存产品信息"/>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:orientation="vertical">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_del_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="@dimen/fab_margin"
+            app:backgroundTint="@color/del"
+            android:src="@drawable/garbage" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_edit_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="@dimen/fab_margin"
+            android:src="@drawable/editor" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="@dimen/fab_margin"
+            android:src="@drawable/home" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

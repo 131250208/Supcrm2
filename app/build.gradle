@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'com.android.model.application'
+//apply plugin: 'org.bitbucket.pvoid.android-apt'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.example.a15850.supcrm"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+repositories {
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+//    compile 'com.timqi.sectorprogressview:library:2.0.0'
+    compile 'com.github.PhilJay:MPAndroidChart:v2.2.4'
+    compile 'com.hannesdorfmann.fragmentargs:annotation:3.0.2'
+//    apt 'com.hannesdorfmann.fragmentargs:processor:3.0.2'
+    compile 'com.bigkoo:pickerview:2.0.8'
+    compile project(path: ':library1')
+}
+//tasks.withType(JavaCompile) {
+//    sourceCompatibility = JavaVersion.VERSION_1_7
+//    targetCompatibility = JavaVersion.VERSION_1_7
+//}

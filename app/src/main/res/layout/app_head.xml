@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:background="@color/colorPrimary"
+ >
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:text="我的超客"
+            android:textColor="@color/WHITE"
+            android:textSize="30sp"
+            android:id="@+id/position_now"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="end"
+            android:layout_margin="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/portrait"
+            android:id="@+id/user_portrait"
+            />
+
+
+</LinearLayout>

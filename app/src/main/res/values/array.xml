@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>家居类</item>
+        <item>生鲜类 </item>
+        <item>洗涤类</item>
+        <item>餐具类</item>
+        <item>服饰类</item>
+    </string-array>
+    <string-array name="customer_type">
+        <item>重要客户</item>
+        <item>一般客户 </item>
+        <item>低价值客户</item>
+    </string-array>
+    <string-array name="opportunity_type">
+        <item>重要商机</item>
+        <item>一般商机 </item>
+        <item>低价值商机</item>
+    </string-array>
+    <string-array name="contract_type">
+        <item>重要合同</item>
+        <item>一般合同 </item>
+        <item>低价值合同</item>
+    </string-array>
+    <string-array name="contract_status">
+        <item>未开始</item>
+        <item>执行中 </item>
+        <item>成功结束</item>
+        <item>意外终止</item>
+    </string-array>
+    <string-array name="customer_status">
+        <item>初访</item>
+        <item>意向 </item>
+        <item>报价</item>
+        <item>成交</item>
+        <item>搁置</item>
+    </string-array>
+    <string-array name="opportunity_status">
+        <item>初步洽谈</item>
+        <item>需求确定 </item>
+        <item>方案报价</item>
+        <item>谈判合同</item>
+        <item>赢单</item>
+        <item>输单</item>
+    </string-array>
+    <string-array name="products">
+        <item>红家组合衣柜</item>
+        <item>席梦思床垫 </item>
+        <item>白丽玻璃桌</item>
+        <item>盼盼防盗门</item>
+    </string-array>
+    <string-array name="departments">
+        <item>部门1 </item>
+        <item>部门2</item>
+        <item>部门3</item>
+        <item>部门4</item>
+        <item>所有部门</item>
+    </string-array>
+    <string-array name="staffs">
+        <item>自己</item>
+        <item>全部员工</item>
+    </string-array>
+    <string-array name="years">
+        <item>2016年</item>
+        <item>2015年</item>
+        <item>2014年</item>
+        <item>2013年</item>
+        <item>2012年</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>1月</item>
+        <item>2月 </item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月 </item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+        <item>全年</item>
+    </string-array>
+</resources>

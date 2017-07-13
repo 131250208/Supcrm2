@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a15850.supcrm.UI.Activity_Report_Target">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <include layout="@layout/app_head"></include>
+        <include layout="@layout/report_filter"></include>
+
+        <FrameLayout
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center_horizontal"
+            android:padding="20dp">
+
+            <com.timqi.sectorprogressview.ColorfulRingProgressView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/crpv_Target"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:bgColor="#e1e1e1"
+                app:fgColorEnd="@color/colorPrimary"
+                app:fgColorStart="@color/faintBlue"
+                app:percent="80"
+                app:startAngle="0"
+                app:strokeWidth="20dp" />
+
+            <TextView
+                android:id="@+id/tvPercent_track"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="80"
+                android:textColor="@color/faintBlue"
+                android:textSize="50sp" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="目标："/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/faintBlue"
+                android:layout_marginRight="40dp"
+                android:text="10000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="完成："/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/GREEN"
+                android:text="8000"/>
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/GRAY"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:paddingLeft="100dp"
+            android:paddingRight="100dp"
+            android:textColor="@color/WHITE"
+            android:text="设置员工目标"
+            />
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/home" />
+</FrameLayout>
